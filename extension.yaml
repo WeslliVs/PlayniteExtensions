@@ -1,0 +1,12 @@
+Id: Links_Sorter_Modded
+Name: Links Sorter Modded
+Author: wellsz
+Version: 2.6.1
+Module: LinksSorterMod.psm1
+Type: Script
+Icon: icon.png
+Links:
+    - Name: GitHub
+      Url: https://github.com/WeslliVs/PlayniteLinkSorter
+    - Name: Original GitHub Project
+      Url: https://github.com/WeslliVs/PlayniteLinkSorter
